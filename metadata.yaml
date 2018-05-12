@@ -1,5 +1,8 @@
 _repo: Mother-Carey-s-Chickens_10540
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wiggin, Kate Douglas Smith
@@ -15,6 +18,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Kate_Douglas_Wiggin
 description: Mother Carey and her four children try to make a home for themselves
   in a tiny village in Maine while Mr. Carey, a sea captain, is away.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10540#Mother-Carey-s-Chickens
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
